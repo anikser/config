@@ -1,3 +1,4 @@
 alias ll='ls -lahrt'
 alias reload='source ~/.zshrc'
+alias hardreload='~/.config/setup.sh'
 alias gr='`upfind gradlew`/gradlew'
