@@ -5,4 +5,6 @@ ln -nfs $SCRIPTPATH/vim ~/.vim
 ln -nfs $SCRIPTPATH/zsh/.zshrc ~/.zshrc
 ln -nfs $SCRIPTPATH/git/.gitconfig ~/.gitconfig
 
+zsh $SCRIPTPATH/zsh/install_plugins.sh
+
 source ~/.zshrc
