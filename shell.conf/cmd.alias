@@ -2,3 +2,5 @@ alias ll='ls -lahrt'
 alias reload='source ~/.zshrc'
 alias hardreload='~/.config/setup.sh'
 alias gr='`upfind gradlew`/gradlew'
+
+export PATH=$PATH:/opt/homebrew/opt/postgresql@15/bin
