@@ -1,6 +1,6 @@
 # My Config
 
-I'm finally sick of having to do this env setup over and over. WOOHOO investing in myself
+Indeed! A wise choice. 
 
 
 ## Quickstart
